@@ -1,0 +1,9 @@
+Graph Name,Vertices,Edges,Prim_MST_Cost,Prim_Execution_Time_ms,Prim_Operations,Kruskal_MST_Cost,Kruskal_Execution_Time_ms,Kruskal_Operations,MST_Cost_Match,Total_Time_ms,Total_Operations
+small_graph_1,5,7,10,1,22,10,0,20,True,1,42
+small_graph_2,4,5,19,0,17,19,0,15,True,0,32
+small_graph_3,6,7,25,0,23,25,0,22,True,0,45
+medium_graph_1,12,22,80,0,62,80,0,102,True,0,164
+medium_graph_2,10,15,72,0,47,72,0,59,True,0,106
+medium_graph_3,15,23,100,0,70,100,0,113,True,0,183
+large_graph_1,25,45,290,0,126,290,0,211,True,0,337
+large_graph_2,30,41,275,0,135,275,0,213,True,0,348
